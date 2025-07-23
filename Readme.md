@@ -35,8 +35,8 @@ rollNo,name,mathMarks,englishMarks,scienceMarks
 ### Example:
 
 ```
-1,Ankit,90.0,85.0,88.0
-2,Priya,78.0,82.0,80.0
+1,Diwakar,90.0,85.0,88.0
+2,Bhaskar,78.0,82.0,80.0
 ```
 
 ---
@@ -79,7 +79,7 @@ Enter your choice:
 ===================================
 ------------------------------
 Roll No       : 1
-Name          : Ankit
+Name          : Diwakar
 Math Marks    : 90.00
 Science Marks : 88.00
 English Marks : 85.00
